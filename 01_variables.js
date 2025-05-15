@@ -3,7 +3,9 @@ console.log("🚀 Script is running");
 const accountId = 144553;
 let accountEmail = "lol@123gmail.com";
 var accountPassword = "1234";
-accountCity = "Agra";
+accountCity 
+
+v= "Agra";
 let accountState
 
 // accountId = 2;
