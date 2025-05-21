@@ -10,8 +10,7 @@
 function sayMyName (){
     console.log("p");
     console.log("r"); 
-    console.log("i");
-}
+    console.log("i");}
 
 // sayMyName()
 
