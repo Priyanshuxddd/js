@@ -43,7 +43,7 @@ const myObject = {
 
 }
 
-//here its not working maps are iterable by this way but not object
+
 
 for (const [key , value ] of myObject) {
     console.log(key, ':-', value);
